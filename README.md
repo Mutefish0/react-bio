@@ -8,4 +8,4 @@ react biolerplate
 `npm start`
 
 #查看
-打开浏览器访问 ![http://localhost:8080/]()
+打开浏览器访问 [http://localhost:8080/]()
