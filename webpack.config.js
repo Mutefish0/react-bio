@@ -24,6 +24,10 @@ module.exports = {
 		  {
 			test:/\.(png|jpg|bmp)$/,
 			loader: 'url?limit=5000&name=images/[name].[ext]'
+		  },
+		  {
+		  	test:/\.json/,
+		  	loader:'json'
 		  }
 		]
 	}
